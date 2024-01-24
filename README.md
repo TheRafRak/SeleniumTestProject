@@ -17,4 +17,4 @@
 <h2>Test Results Summary</h2>
 
 <img width="790" alt="screen_1" src="https://github.com/TheRafRak/SeleniumTestProject/assets/129006677/47af05f8-b095-4a24-bd45-e76d33f9847d">
-<img width="793" alt="screen_2" src="https://github.com/TheRafRak/SeleniumTestProject/assets/129006677/0a516b37-dbed-4ea3-802e-6b8c361efd78">
+
