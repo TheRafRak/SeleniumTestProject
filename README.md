@@ -16,6 +16,5 @@
 </ul>
 <h2>Test Results Summary</h2>
 
-<img width="1417" alt="Zrzut ekranu 2024-01-24 o 12 32 49" src="https://github.com/TheRafRak/SeleniumTestProject/assets/129006677/ecbf9ad5-e49b-4543-a05b-dcc436808648">
-<img width=<img width="1414" alt="screenshot_2" src="https://github.com/TheRafRak/SeleniumTestProject/assets/129006677/08a9f30b-2c73-41ee-b45d-2754bfaefa98">
-<img width="1414" alt="screenshot_3" src="https://github.com/TheRafRak/SeleniumTestProject/assets/129006677/f3371191-66e1-457b-b1d5-5ba247a689d9">
+<img width="790" alt="screen_1" src="https://github.com/TheRafRak/SeleniumTestProject/assets/129006677/47af05f8-b095-4a24-bd45-e76d33f9847d">
+<img width="793" alt="screen_2" src="https://github.com/TheRafRak/SeleniumTestProject/assets/129006677/0a516b37-dbed-4ea3-802e-6b8c361efd78">
